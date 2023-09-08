@@ -89,6 +89,8 @@ https://dribbble.com/shots
 
 <h3>📍Implantação de página gratuita</h3>
 https://vercel.com/
+https://pages.github.com/
+https://www.netlify.com/
 
 <h3>📍Emoticons para copiar</h3>
 <h1>
