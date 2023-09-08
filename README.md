@@ -1,4 +1,4 @@
-<h2>Indicação de sites para Front-Ends</h2>
+<h2>⭐Indicação de sites para Front-Ends⭐</h2>
 
 <h3>📍 Imagens</h3>
 
