@@ -51,12 +51,13 @@ https://lnkd.in/dQ5gt9vj
 
 https://lnkd.in/d4H-UWfD
 
-<h3>📍Fontes para textos</h3>
-
-https://fonts.google.com/
-
 <h3>📍HTML</h3>
+
+https://fonts.google.com/ - Modelo de fontes para textos
+
 https://lnkd.in/dX3CmpK8 (entidades)
+
+https://www.lipsum.com/ - Para preencher campos de textos
 
 
 <h3>📍CSS</h3>
