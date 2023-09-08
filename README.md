@@ -13,7 +13,7 @@ https://lnkd.in/db38HTVg
 https://lnkd.in/djmwC7gS
 
 
-<h3>📍Icones</h3>
+<h3>📍Ícones</h3>
 
 https://fontawesome.com/
 
