@@ -89,14 +89,21 @@ https://dribbble.com/shots
 
 <h3>📍React</h3>
 https://mui.com/material-ui/getting-started/ 
+
 https://chakra-ui.com/getting-started 
+
 https://vitejs.dev/guide/
+
 https://reactrouter.com/en/main/start/tutorial
+
 https://ant.design/docs/react/introduce
 
 <h3>📍Implantação de página gratuita</h3>
+
 https://vercel.com/
+
 https://pages.github.com/
+
 https://www.netlify.com/
 
 <h3>📍Emoticons para copiar</h3>
