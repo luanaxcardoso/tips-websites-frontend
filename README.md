@@ -1,4 +1,4 @@
-<h2>Dicas e sites para Front-Ends</h2>
+<h2>🪸Dicas e sites para Front-Ends🪸</h2>
 
 <h3>📍Extensões VS Code</h3>
 
