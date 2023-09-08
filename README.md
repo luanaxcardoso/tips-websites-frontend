@@ -11,12 +11,10 @@ https://unsplash.com/pt-br
 
 https://lnkd.in/db38HTVg
 
-## Ilustrações (Você pode mudar a cor de acordo com seu projeto)
-
 https://lnkd.in/djmwC7gS
 
 
-📍Icones
+<h2>📍Icones</h2>
 
 https://fontawesome.com/
 
@@ -33,15 +31,15 @@ https://lnkd.in/dQ5gt9vj
 https://lnkd.in/d4H-UWfD
 
 
-📍Fontes para textos
+<h2>📍Fontes para textos</h2>
 
 https://fonts.google.com/
 
-📍HTML
+<h2>📍HTML</h2>
 https://lnkd.in/dX3CmpK8 (entidades)
 
 
-📍CSS
+<h2>📍CSS</h2>
 
 https://lnkd.in/drNeTxgr (cores)
 
@@ -53,26 +51,23 @@ https://lnkd.in/dGHV5E-8 (remove fundo de imagem gratuito)
 
 https://lnkd.in/dtKegDxH (exemplos de box-shadow)
 
-📍Ferramentas para Design
+<h2>📍Ferramentas para Design</h2>
 
 https://m3.material.io/
 
 https://www.canva.com/
 
-📍Emojis
-https://lnkd.in/dq7ffCdr
-
-📍Badges para copiar
+<h2>📍Badges para copiar</h2>
 https://lnkd.in/dqZkR6_w
 
-📍Organizar tarefas
+<h2>📍Organizar tarefas</h2>
 
 https://trello.com/home
 
-📍Modelo de projetos para inspiração
+<h2>📍Modelo de projetos </h2>
 https://dribbble.com/shots
 
-📍Implantação de página-gratuito
+<h2>📍Implantação de página-gratuito</h2>
 https://vercel.com/
 
 <h2>Emoticons para copiar</h2>
