@@ -1,7 +1,8 @@
 <h2>🪸Dicas e sites para Front-Ends🪸</h2>
 
 <h3>📍Extensões VS Code</h3>
-
+<h3>
+  
 🔸CodeSnap - Para tirar print do código
 
 🔸Color-Hightlight - Para visualizar as cores do CSS
@@ -18,7 +19,8 @@
 
 🔸JavaScript (ES6) code snippets - Completa trechos de códigos
 
-🔸indent-rainbow - Deixa o recuo colorido para faciliar a identação (ótima)
+🔸indent-rainbow - Deixa o recuo colorido para faciliar a identação 
+</h3>
 
 <h3>📍Imagens</h3>
 
