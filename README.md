@@ -65,7 +65,7 @@ https://trello.com/home
 <h3>📍Modelo de projetos </h3>
 https://dribbble.com/shots
 
-<h3>📍Implantação de página-gratuito</h3>
+<h3>📍Implantação de página gratuita</h3>
 https://vercel.com/
 
 <h3>📍Emoticons para copiar</h3>
