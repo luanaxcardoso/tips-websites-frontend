@@ -2,7 +2,6 @@
 
 <h3>📍 Imagens</h3>
 
-
 https://pixabay.com/pt/
 
 https://lnkd.in/dv_bHSfN
@@ -30,8 +29,7 @@ https://lnkd.in/dQ5gt9vj
 
 https://lnkd.in/d4H-UWfD
 
-
-<h2>📍Fontes para textos</h2>
+<h3>📍Fontes para textos</h3>
 
 https://fonts.google.com/
 
@@ -64,13 +62,13 @@ https://lnkd.in/dqZkR6_w
 
 https://trello.com/home
 
-<h2>📍Modelo de projetos </h2>
+<h3>📍Modelo de projetos </h3>
 https://dribbble.com/shots
 
 <h3>📍Implantação de página-gratuito</h3>
 https://vercel.com/
 
-<h3>Emoticons para copiar</h3>
+<h3>📍Emoticons para copiar</h3>
 <h1>
 😀
 😃
