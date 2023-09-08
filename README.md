@@ -1,6 +1,6 @@
-<h1>Indicação de sites para Front-Ends</h1>
+<h2>Indicação de sites para Front-Ends</h2>
 
-<h2>📍 Imagens</h2>
+<h3>📍 Imagens</h3>
 
 
 https://pixabay.com/pt/
@@ -14,7 +14,7 @@ https://lnkd.in/db38HTVg
 https://lnkd.in/djmwC7gS
 
 
-<h2>📍Icones</h2>
+<h3>📍Icones</h3>
 
 https://fontawesome.com/
 
@@ -35,11 +35,11 @@ https://lnkd.in/d4H-UWfD
 
 https://fonts.google.com/
 
-<h2>📍HTML</h2>
+<h3>📍HTML</h3>
 https://lnkd.in/dX3CmpK8 (entidades)
 
 
-<h2>📍CSS</h2>
+<h3>📍CSS</h3>
 
 https://lnkd.in/drNeTxgr (cores)
 
@@ -51,26 +51,26 @@ https://lnkd.in/dGHV5E-8 (remove fundo de imagem gratuito)
 
 https://lnkd.in/dtKegDxH (exemplos de box-shadow)
 
-<h2>📍Ferramentas para Design</h2>
+<h3>📍Ferramentas para Design</h3>
 
 https://m3.material.io/
 
 https://www.canva.com/
 
-<h2>📍Badges para copiar</h2>
+<h3>📍Badges para copiar</h3>
 https://lnkd.in/dqZkR6_w
 
-<h2>📍Organizar tarefas</h2>
+<h3>📍Organizar tarefas</h3>
 
 https://trello.com/home
 
 <h2>📍Modelo de projetos </h2>
 https://dribbble.com/shots
 
-<h2>📍Implantação de página-gratuito</h2>
+<h3>📍Implantação de página-gratuito</h3>
 https://vercel.com/
 
-<h2>Emoticons para copiar</h2>
+<h3>Emoticons para copiar</h3>
 <h1>
 😀
 😃
