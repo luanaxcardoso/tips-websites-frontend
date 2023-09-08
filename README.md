@@ -1,6 +1,6 @@
 <h2>⭐Indicação de sites para Front-Ends⭐</h2>
 
-<h3>Extensões VS Code</h3>
+<h3>📍Extensões VS Code</h3>
 
 🔸CodeSnap - Para tirar print do código
 
@@ -10,9 +10,15 @@
 
 🔸Peacock - Muda a cor da barra de Menus do VS Code, fica salvo por projeto
 
-🔸
+🔸Neon Vommit Color Theme - Tema bem colorido, fica lindo!
 
-🔸
+🔸Live Server - Cria um servidor local para visualizar a página HTML na web
+
+🔸Live Preview - Para visualizar a página HTML diretamente no VS Code
+
+🔸JavaScript (ES6) code snippets - Completa trechos de códigos
+
+🔸indent-rainbow - Deixa o recuo colorido para faciliar a identação (ótima)
 
 <h3>📍Imagens</h3>
 
