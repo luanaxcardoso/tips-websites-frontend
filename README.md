@@ -1,6 +1,20 @@
 <h2>⭐Indicação de sites para Front-Ends⭐</h2>
 
-<h3>📍 Imagens</h3>
+<h3>Extensões VS Code</h3>
+
+🔸CodeSnap - Para tirar print do código
+
+🔸Color-Hightlight - Para visualizar as cores do CSS
+
+🔸VS-Code Icons - Modifica os ícones de pastas e arquivos 
+
+🔸Peacock - Muda a cor da barra de Menus do VS Code, fica salvo por projeto
+
+🔸
+
+🔸
+
+<h3>📍Imagens</h3>
 
 https://pixabay.com/pt/
 
