@@ -75,8 +75,8 @@ https://dribbble.com/shots
 📍Implantação de página-gratuito
 https://vercel.com/
 
-<h1>Emoticons para copiar</h1>
-<h2>
+<h2>Emoticons para copiar</h2>
+<h1>
 😀
 😃
 😄
@@ -1663,4 +1663,4 @@ https://vercel.com/
 🏳️‍🌈
 🏳️‍⚧️
 🏴‍☠️
-</h2>
+</h1>
