@@ -62,6 +62,8 @@ https://www.lipsum.com/ - Para preencher campos de textos
 
 <h3>📍CSS</h3>
 
+https://projects.verou.me/css3patterns/ (texturas)
+
 https://lnkd.in/drNeTxgr (cores)
 
 https://lnkd.in/dF2g_UkE (cores)
