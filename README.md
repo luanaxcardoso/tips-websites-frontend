@@ -88,6 +88,9 @@ https://lnkd.in/dqZkR6_w
 
 https://trello.com/home
 
+<h3>📍Diagramas</h3>
+https://excalidraw.com/
+
 <h3>📍Modelo de projetos </h3>
 https://dribbble.com/shots
 
