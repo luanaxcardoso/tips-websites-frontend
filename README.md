@@ -1,6 +1,4 @@
-<h2>🪸Dicas e sites para Front-Ends🪸</h2>
-
-<h3>📍Extensões VS Code</h3>
+<h2>📍Extensões VS Code</h2>
 <h3>
   
 🔸CodeSnap - Para tirar print do código
@@ -21,6 +19,8 @@
 
 🔸indent-rainbow - Deixa o recuo colorido para faciliar a identação 
 </h3>
+
+<h2>🪸Dicas e sites para Front-Ends🪸</h2>
 
 <h3>📍Imagens</h3>
 
@@ -48,8 +48,6 @@ https://iconmonstr.com/
 https://lnkd.in/dDnz_wdW
 
 https://lnkd.in/dQ5gt9vj
-
-https://lnkd.in/d4H-UWfD
 
 <h3>📍HTML</h3>
 
