@@ -53,7 +53,7 @@ https://delesign.com/free-designs/graphics/
 
 https://fonts.google.com/ - Modelo de fontes para textos
 
-https://lnkd.in/dX3CmpK8 (entidades)
+[https://lnkd.in/dX3CmpK8 ](https://symbl.cc/pt/html-entities/)(entidades)
 
 https://www.lipsum.com/ - Para preencher campos de textos
 
