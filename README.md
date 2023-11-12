@@ -39,7 +39,7 @@ https://lnkd.in/djmwC7gS
 
 https://fontawesome.com/
 
-https://lnkd.in/dZ95Gm-z
+[https://lnkd.in/dZ95Gm-z](https://www.flaticon.com/br/icones)
 
 https://icon-icons.com/pt/
 
