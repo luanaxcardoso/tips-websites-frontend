@@ -47,7 +47,7 @@ https://iconmonstr.com/
 
 https://lnkd.in/dDnz_wdW
 
-https://lnkd.in/dQ5gt9vj
+https://www.softr.io/blog/free-svg-illustrations
 
 <h3>📍HTML</h3>
 
