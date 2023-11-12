@@ -51,6 +51,8 @@ https://www.manypixels.co/gallery - ilustrações
 
 https://blush.design/collections - ilustrações
 
+https://storyset.com/ - ilustrações
+
 https://handcrafts.undraw.co/app
 
 https://delesign.com/free-designs/graphics/
