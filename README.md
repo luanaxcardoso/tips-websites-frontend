@@ -47,7 +47,7 @@ https://iconmonstr.com/
 
 https://lnkd.in/dDnz_wdW
 
-https://www.softr.io/blog/free-svg-illustrations
+https://delesign.com/free-designs/graphics/
 
 <h3>📍HTML</h3>
 
