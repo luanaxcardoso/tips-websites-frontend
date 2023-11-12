@@ -45,6 +45,8 @@ https://icon-icons.com/pt/
 
 https://iconmonstr.com/
 
+https://www.manypixels.co/gallery - ilustrações
+
 https://handcrafts.undraw.co/app
 
 https://delesign.com/free-designs/graphics/
