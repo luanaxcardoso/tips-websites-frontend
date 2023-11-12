@@ -70,7 +70,7 @@ https://lnkd.in/dF2g_UkE (cores)
 
 https://cssgradient.io/ (criar cores gradientes)
 
-https://lnkd.in/dGHV5E-8 (remove fundo de imagem gratuito)
+[https://lnkd.in/dGHV5E-8](https://www.remove.bg/pt-br) (remove fundo de imagem gratuito)
 
 https://lnkd.in/dtKegDxH (exemplos de box-shadow)
 
