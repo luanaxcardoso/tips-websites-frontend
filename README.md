@@ -45,7 +45,7 @@ https://icon-icons.com/pt/
 
 https://iconmonstr.com/
 
-https://lnkd.in/dDnz_wdW
+https://handcrafts.undraw.co/app
 
 https://delesign.com/free-designs/graphics/
 
@@ -59,6 +59,7 @@ https://www.lipsum.com/ - Para preencher campos de textos
 
 
 <h3>📍CSS</h3>
+
 https://cdnjs.com/libraries/normalize (Faz com que os navegadores renderizem todos os elementos, tornando padrão)
 
 https://projects.verou.me/css3patterns/ (texturas)
