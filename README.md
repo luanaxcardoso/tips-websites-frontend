@@ -74,6 +74,8 @@ https://cssgradient.io/ (criar cores gradientes)
 
 https://lnkd.in/dtKegDxH (exemplos de box-shadow)
 
+https://www.magicpattern.design/tools/css-backgrounds
+
 <h3>📍Ferramentas para Design</h3>
 
 https://m3.material.io/
