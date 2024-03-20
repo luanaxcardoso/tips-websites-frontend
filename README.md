@@ -39,6 +39,8 @@ https://lnkd.in/djmwC7gS
 
 https://fontawesome.com/
 
+https://iconify.design/
+
 https://www.svgrepo.com/
 
 [https://lnkd.in/dZ95Gm-z](https://www.flaticon.com/br/icones)
