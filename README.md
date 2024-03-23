@@ -88,6 +88,8 @@ https://www.magicpattern.design/tools/css-backgrounds
 
 <h3>📍Ferramentas para Design</h3>
 
+https://www.figma.com/
+
 https://m3.material.io/
 
 https://www.canva.com/
