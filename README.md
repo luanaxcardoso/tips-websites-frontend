@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!;Dicas+de+sites;+para+|+Front-ends)](https://git.io/typing-svg)
+
 <h2>📍Extensões VS Code</h2>
 <h3>
   
