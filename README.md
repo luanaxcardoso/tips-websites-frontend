@@ -50,7 +50,7 @@
 ### 📍 Badges para Copiar | Badges to Copy
 
 - [Shields.io](https://shields.io/) - Gerador de badges personalizados | Custom badge generator.  
-- [Beeshield](https://beeshield.dev/) - Personalize badges com facilidade | Easily customize badges.
+
 
 
 ### 📍 Organizar Tarefas | Task Management
