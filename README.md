@@ -24,115 +24,92 @@
 
 <h2>🪸Dicas e sites para Front-Ends🪸</h2>
 
-<h3>📍Imagens</h3>
+### 📍 Imagens
 
-https://pixabay.com/pt/
-
-https://lnkd.in/dv_bHSfN
-
-https://unsplash.com/pt-br
-
-https://lnkd.in/db38HTVg
-
-https://lnkd.in/djmwC7gS
+- [Pixabay](https://pixabay.com/pt/)
+- [Freepik](https://lnkd.in/dv_bHSfN)
+- [Unsplash](https://unsplash.com/pt-br)
+- [Pexels](https://lnkd.in/db38HTVg)
+- [Canva](https://lnkd.in/djmwC7gS)
 
 
-<h3>📍Ícones</h3>
+### 📍 Ícones e Ilustrações
 
-https://fontawesome.com/
+- [FontAwesome](https://fontawesome.com/)
+- [Iconify](https://iconify.design/)
+- [SVG Repo](https://www.svgrepo.com/)
+- [Flaticon](https://www.flaticon.com/br/icones)
+- [Icon Icons](https://icon-icons.com/pt/)
+- [Iconmonstr](https://iconmonstr.com/)
 
-https://iconify.design/
+### 📍 Ilustrações
+- [ManyPixels](https://www.manypixels.co/gallery)
+- [Blush](https://blush.design/collections)
+- [Storyset](https://storyset.com/)
+- [Handcrafts by unDraw](https://handcrafts.undraw.co/app)
+- [Delesign Graphics](https://delesign.com/free-designs/graphics/)
 
-https://www.svgrepo.com/
+### 📍 HTML
 
-[https://lnkd.in/dZ95Gm-z](https://www.flaticon.com/br/icones)
+- [Google Fonts](https://fonts.google.com/) - Modelo de fontes para textos.
+- [HTML Entities](https://symbl.cc/pt/html-entities/) - Tabela de entidades HTML.
+- [Lorem Ipsum](https://www.lipsum.com/) - Gerador de texto fictício.
 
-https://icon-icons.com/pt/
+### 📍 CSS
 
-https://iconmonstr.com/
+- [Normalize.css](https://cdnjs.com/libraries/normalize) - Torna a renderização uniforme entre navegadores.
+- [CSS Patterns](https://projects.verou.me/css3patterns/) - Coleção de texturas CSS.
+- [Coolors - Paletas de Cores](https://coolors.co/) - Ferramenta para criar paletas.
+- [Flat UI Colors](https://flatuicolors.com/) - Paletas de cores flat design.
+- [CSS Gradient](https://cssgradient.io/) - Criador de gradientes CSS.
+- [Remove.bg](https://www.remove.bg/pt-br) - Remove fundo de imagens automaticamente.
+- [Box-Shadow Examples](https://shadows.brumm.af/) - Exemplos de sombras em CSS.
+- [Magic Pattern Backgrounds](https://www.magicpattern.design/tools/css-backgrounds) - Ferramenta para criar fundos CSS.
 
-https://www.manypixels.co/gallery - ilustrações
+### 📍 Ferramentas para Design
 
-https://blush.design/collections - ilustrações
+- [Figma](https://www.figma.com/) - Ferramenta de design colaborativo.
+- [Material Design 3](https://m3.material.io/) - Guia e recursos do Material Design.
+- [Canva](https://www.canva.com/) - Design gráfico simplificado
+- 
+### 📍 Badges para Copiar
 
-https://storyset.com/ - ilustrações
+- [Shields.io](https://shields.io/) - Gerador de badges personalizados.
 
-https://handcrafts.undraw.co/app
+### 📍 Organizar Tarefas
 
-https://delesign.com/free-designs/graphics/
+- [Trello](https://trello.com/home) - Gerenciador de tarefas fácil de usar, disponível em português.
+- [Notion](https://www.notion.so/) - Ferramenta versátil para organização e gestão de projetos com interface em português.
+- [Todoist](https://todoist.com/) - Aplicativo simples e eficiente para organização de tarefas, com suporte em português.
+  
+### 📍 Diagramas
 
-<h3>📍HTML</h3>
+- [Lucidchart](https://www.lucidchart.com/pages/)
+- [Miro](https://miro.com/pt/)
+- [Excalidraw](https://excalidraw.com/)
+- [Whimsical](https://whimsical.com/login)
 
-https://fonts.google.com/ - Modelo de fontes para textos
+### 📍 Modelo de Projetos
 
-[https://lnkd.in/dX3CmpK8 ](https://symbl.cc/pt/html-entities/)(entidades)
+- [Dribbble](https://dribbble.com/shots) - Inspirações de design e projetos.
 
-https://www.lipsum.com/ - Para preencher campos de textos
+### 📍 React
 
+- [Material UI](https://mui.com/material-ui/getting-started/) - Biblioteca de componentes React prontos para uso.
+- [Chakra UI](https://chakra-ui.com/getting-started) - Biblioteca de componentes acessíveis e modernos para React.
+- [Vite](https://vitejs.dev/guide/) - Ferramenta rápida de construção para projetos React.
+- [React Router](https://reactrouter.com/en/main/start/tutorial) - Gerenciamento de rotas em aplicações React.
+- [Ant Design](https://ant.design/docs/react/introduce) - Framework para interfaces de usuário no React.
+  
+### 📍 Implantação de Página Gratuita
 
-<h3>📍CSS</h3>
+- [Vercel](https://vercel.com/) - Plataforma para implantar aplicações web, com integração direta com Git.
+- [GitHub Pages](https://pages.github.com/) - Hospedagem de sites estáticos diretamente no GitHub.
+- [Netlify](https://www.netlify.com/) - Plataforma para automação de deploy e hospedagem de sites estáticos.
 
-https://cdnjs.com/libraries/normalize (Faz com que os navegadores renderizem todos os elementos, tornando padrão)
+### 📍 Emoticons para Copiar
 
-https://projects.verou.me/css3patterns/ (texturas)
-
-https://lnkd.in/drNeTxgr (cores)
-
-https://lnkd.in/dF2g_UkE (cores)
-
-https://cssgradient.io/ (criar cores gradientes)
-
-[https://lnkd.in/dGHV5E-8](https://www.remove.bg/pt-br) (remove fundo de imagem gratuito)
-
-https://lnkd.in/dtKegDxH (exemplos de box-shadow)
-
-https://www.magicpattern.design/tools/css-backgrounds
-
-<h3>📍Ferramentas para Design</h3>
-
-https://www.figma.com/
-
-https://m3.material.io/
-
-https://www.canva.com/
-
-<h3>📍Badges para copiar</h3>
-https://lnkd.in/dqZkR6_w
-
-<h3>📍Organizar tarefas</h3>
-
-https://trello.com/home
-
-<h3>📍Diagramas</h3>
-
-https://excalidraw.com/
-
-https://whimsical.com/login
-
-<h3>📍Modelo de projetos </h3>
-https://dribbble.com/shots
-
-<h3>📍React</h3>
-
-https://mui.com/material-ui/getting-started/ 
-
-https://chakra-ui.com/getting-started 
-
-https://vitejs.dev/guide/
-
-https://reactrouter.com/en/main/start/tutorial
-
-https://ant.design/docs/react/introduce
-
-<h3>📍Implantação de página gratuita</h3>
-
-https://vercel.com/
-
-https://pages.github.com/
-
-https://www.netlify.com/
-
-<h3>📍Emoticons para copiar</h3>
+- [Emojipedia](https://emojipedia.org/) - Encontre e copie emoticons populares.
 <h1>
 😀
 😃
