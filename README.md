@@ -50,7 +50,6 @@
 ### 📍 Badges para Copiar | Badges to Copy
 
 - [Shields.io](https://shields.io/) - Gerador de badges personalizados | Custom badge generator.  
-- [Badgen](https://badgen.net/) - Simples e rápido para criar badges | Simple and fast badge creation.  
 - [Beeshield](https://beeshield.dev/) - Personalize badges com facilidade | Easily customize badges.
 
 
