@@ -40,38 +40,6 @@
 - [Handcrafts by unDraw](https://handcrafts.undraw.co/app)
 - [Delesign Graphics](https://delesign.com/free-designs/graphics/)
 
-### 📍 HTML
-
-- [Google Fonts](https://fonts.google.com/) - Modelo de fontes para textos | Font model for text.
-- [HTML Entities](https://symbl.cc/pt/html-entities/) - Tabela de entidades HTML | HTML entities table.
-- [Lorem Ipsum](https://www.lipsum.com/) - Gerador de texto fictício | Fictitious text generator.
-
-### 📍 CSS 
-
-- [Normalize.css](https://cdnjs.com/libraries/normalize) - Torna a renderização uniforme entre navegadores | Makes rendering uniform across browsers.
-- [CSS Patterns](https://projects.verou.me/css3patterns/) - Coleção de texturas CSS | Collection of CSS textures.
-- [Coolors - Paletas de Cores](https://coolors.co/) - Ferramenta para criar paletas | Tool for creating palettes.
-- [Flat UI Colors](https://flatuicolors.com/) - Paletas de cores flat design | Flat design color palettes.
-- [CSS Gradient](https://cssgradient.io/) - Criador de gradientes CSS | CSS gradient creator.
-- [Remove.bg](https://www.remove.bg/pt-br) - Remove fundo de imagens automaticamente | Automatically removes background from images.
-- [Box-Shadow Examples](https://shadows.brumm.af/) - Exemplos de sombras em CSS | Box-shadow examples in CSS.
-- [Magic Pattern Backgrounds](https://www.magicpattern.design/tools/css-backgrounds) - Ferramenta para criar fundos CSS | Tool to create CSS backgrounds.
-
-
-### 📍 React
-
-- [Material UI](https://mui.com/material-ui/getting-started/) - Biblioteca de componentes | Component library.  
-- [Chakra UI](https://chakra-ui.com/getting-started) - Biblioteca de componentes | Component library.  
-- [Vite](https://vitejs.dev/guide/) - Ferramenta rápida de construção para projetos React | Fast build tool for React projects.  
-- [React Router](https://reactrouter.com/en/main/start/tutorial) - Gerenciamento de rotas | Route management.  
-- [Ant Design](https://ant.design/docs/react/introduce) - Framework para interfaces | Framework for interfaces.
-
-### 📍 Django 
-
-- [Django Official](https://www.djangoproject.com/) - Framework de alto nível para Python | High-level Python framework.
-- [Django Rest Framework](https://www.django-rest-framework.org/) - Biblioteca para construir APIs RESTful | Library for building RESTful APIs.
-- [Django Packages](https://djangopackages.org/) - Repositório de pacotes e ferramentas do Django | Repository for Django packages and tools.
-  
 ### 📍 Ferramentas para Design | Design Tools
 
 - [Figma](https://www.figma.com/) - Ferramenta de design colaborativo | Collaborative design tool.
@@ -101,6 +69,53 @@
 - [Whimsical](https://whimsical.com/login)
 
 
+### 📍 HTML
+
+- [Google Fonts](https://fonts.google.com/) - Modelo de fontes para textos | Font model for text.
+- [HTML Entities](https://symbl.cc/pt/html-entities/) - Tabela de entidades HTML | HTML entities table.
+- [Lorem Ipsum](https://www.lipsum.com/) - Gerador de texto fictício | Fictitious text generator.
+
+### 📍 CSS 
+
+- [Normalize.css](https://cdnjs.com/libraries/normalize) - Torna a renderização uniforme entre navegadores | Makes rendering uniform across browsers.
+- [CSS Patterns](https://projects.verou.me/css3patterns/) - Coleção de texturas CSS | Collection of CSS textures.
+- [Coolors - Paletas de Cores](https://coolors.co/) - Ferramenta para criar paletas | Tool for creating palettes.
+- [Flat UI Colors](https://flatuicolors.com/) - Paletas de cores flat design | Flat design color palettes.
+- [CSS Gradient](https://cssgradient.io/) - Criador de gradientes CSS | CSS gradient creator.
+- [Remove.bg](https://www.remove.bg/pt-br) - Remove fundo de imagens automaticamente | Automatically removes background from images.
+- [Box-Shadow Examples](https://shadows.brumm.af/) - Exemplos de sombras em CSS | Box-shadow examples in CSS.
+- [Magic Pattern Backgrounds](https://www.magicpattern.design/tools/css-backgrounds) - Ferramenta para criar fundos CSS | Tool to create CSS backgrounds.
+
+
+### 📍 Frameworks e Bibliotecas para Python | Frameworks and Libraries for Python
+
+
+- [Django](https://www.djangoproject.com/) - Framework web para desenvolvimento rápido | Web framework for fast development.
+- [Flask](https://flask.palletsprojects.com/) - Microframework para construção de aplicações web | Microframework for web application building.
+- [Pandas](https://pandas.pydata.org/) - Biblioteca para análise de dados | Data analysis library.
+- [NumPy](https://numpy.org/) - Biblioteca para computação científica | Library for scientific computing.
+- [Django Rest Framework](https://www.django-rest-framework.org/) - Biblioteca para construir APIs RESTful | Library for building RESTful APIs.
+- [Django Packages](https://djangopackages.org/) - Repositório de pacotes e ferramentas do Django | Repository for Django packages and tools.
+  
+### 📍 Frameworks e Bibliotecas para JavaScript | Frameworks and Libraries for JavaScript
+
+- [React](https://reactjs.org/) - Biblioteca para construir interfaces de usuário | Library for building user interfaces.
+- [Vue.js](https://vuejs.org/) - Framework para construção de interfaces de usuário | Framework for building user interfaces.
+- [Angular](https://angular.io/) - Framework para construção de aplicações web | Framework for building web applications.
+- [Express.js](https://expressjs.com/) - Framework para Node.js para construir APIs | Framework for Node.js for building APIs.
+- [Next.js](https://nextjs.org/) - Framework React para desenvolvimento de aplicações web | React framework for building web applications.
+- [JQuery](https://jquery.com/) - Biblioteca para simplificação de manipulação DOM | Library for simplifying DOM manipulation.
+
+### 📍 React
+
+- [Material UI](https://mui.com/material-ui/getting-started/) - Biblioteca de componentes | Component library.  
+- [Chakra UI](https://chakra-ui.com/getting-started) - Biblioteca de componentes | Component library.  
+- [Vite](https://vitejs.dev/guide/) - Ferramenta rápida de construção para projetos React | Fast build tool for React projects.  
+- [React Router](https://reactrouter.com/en/main/start/tutorial) - Gerenciamento de rotas | Route management.  
+- [Ant Design](https://ant.design/docs/react/introduce) - Framework para interfaces | Framework for interfaces.
+
+
+
 ### 📍 Modelo de Projetos | Project Templates
 
 - [Dribbble](https://dribbble.com/shots) - Inspirações de design e projetos | Design and project inspiration.  
@@ -113,6 +128,25 @@
 - [GitHub Pages](https://pages.github.com/) - Hospedagem de sites estáticos diretamente no GitHub | Hosting static websites directly on GitHub.  
 - [Netlify](https://www.netlify.com/) - Plataforma para automação de deploy e hospedagem de sites estáticos | Platform for automated deploy and static site hosting.
 
+### 📍 Recursos de Documentação e Aprendizado | Documentation and Learning Resources
+
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - Documentação completa sobre web | Complete web documentation.
+- [W3Schools](https://www.w3schools.com/) - Tutoriais e referência para web | Tutorials and reference for web.
+- [freeCodeCamp](https://www.freecodecamp.org/) - Curso gratuito de programação | Free coding courses.
+
+### 📍 Utilitários para Desenvolvimento | Development Utilities
+
+- [Postman](https://www.postman.com/) - Ferramenta para testar APIs | API testing tool.
+- [Insomnia](https://insomnia.rest/) - Cliente HTTP para APIs REST | HTTP client for REST APIs.
+- [Ngrok](https://ngrok.com/) - Serviço para expor servidores locais à internet | Service for exposing local servers to the internet.
+
+### 📍 Testes e Qualidade de Código | Testing and Code Quality
+
+
+- [Jest](https://jestjs.io/) - Framework para testes em JavaScript | JavaScript testing framework.
+- [Cypress](https://www.cypress.io/) - Ferramenta de testes de front-end | Front-end testing tool.
+- [SonarQube](https://www.sonarqube.org/) - Ferramenta de análise de código para qualidade | Code analysis tool for quality.
 
 ### 📍 Emoticons para Copiar | Emojis to Copy
 
