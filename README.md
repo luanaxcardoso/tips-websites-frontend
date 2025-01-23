@@ -1,28 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=40&center=true&vCenter=true&width=1000&lines=Bem-vindos!+Welcome!;Dicas+de+sites;+Para+front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=40&center=true&vCenter=true&width=1000&lines=Bem-vindos!+Welcome!;Dicas+de+sites;+Para+front-end)](https://git.io/typing-svg)
 
-<h2>📍Extensões VS Code</h2>
-<h3>
-  
-🔸CodeSnap - Para tirar print do código
 
-🔸Color-Hightlight - Para visualizar as cores do CSS
+## 📍 Extensões VS Code
 
-🔸VS-Code Icons - Modifica os ícones de pastas e arquivos 
+- 🔸 [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adammaras.code-snap) - Para tirar print do código.
+- 🔸 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Para visualizar as cores do CSS.
+- 🔸 [VS-Code Icons](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-icons) - Modifica os ícones de pastas e arquivos.
+- 🔸 [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) - Muda a cor da barra de Menus do VS Code, fica salvo por projeto.
+- 🔸 [Neon Vommit Color Theme](https://marketplace.visualstudio.com/items?itemName=bierner.neon-vommit) - Tema bem colorido, fica lindo!
+- 🔸 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Cria um servidor local para visualizar a página HTML na web.
+- 🔸 [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server-preview) - Para visualizar a página HTML diretamente no VS Code.
+- 🔸 [JavaScript (ES6) Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Completa trechos de códigos.
+- 🔸 [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - Deixa o recuo colorido para facilitar a indentação.
 
-🔸Peacock - Muda a cor da barra de Menus do VS Code, fica salvo por projeto
+## 🪸 Dicas e Sites para Front-Ends 🪸
 
-🔸Neon Vommit Color Theme - Tema bem colorido, fica lindo!
-
-🔸Live Server - Cria um servidor local para visualizar a página HTML na web
-
-🔸Live Preview - Para visualizar a página HTML diretamente no VS Code
-
-🔸JavaScript (ES6) code snippets - Completa trechos de códigos
-
-🔸indent-rainbow - Deixa o recuo colorido para faciliar a identação 
-</h3>
-
-<h2>🪸Dicas e sites para Front-Ends🪸</h2>
 
 ### 📍 Imagens
 
