@@ -65,6 +65,12 @@
 - [Vite](https://vitejs.dev/guide/) - Ferramenta rápida de construção para projetos React | Fast build tool for React projects.  
 - [React Router](https://reactrouter.com/en/main/start/tutorial) - Gerenciamento de rotas | Route management.  
 - [Ant Design](https://ant.design/docs/react/introduce) - Framework para interfaces | Framework for interfaces.
+
+### 📍 Django 
+
+- [Django Official](https://www.djangoproject.com/) - Framework de alto nível para Python | High-level Python framework.
+- [Django Rest Framework](https://www.django-rest-framework.org/) - Biblioteca para construir APIs RESTful | Library for building RESTful APIs.
+- [Django Packages](https://djangopackages.org/) - Repositório de pacotes e ferramentas do Django | Repository for Django packages and tools.
   
 ### 📍 Ferramentas para Design | Design Tools
 
