@@ -113,7 +113,10 @@
 - [Vite](https://vitejs.dev/guide/) - Ferramenta rápida de construção para projetos React | Fast build tool for React projects.  
 - [React Router](https://reactrouter.com/en/main/start/tutorial) - Gerenciamento de rotas | Route management.  
 - [Ant Design](https://ant.design/docs/react/introduce) - Framework para interfaces | Framework for interfaces.
-
+- [React Animate](https://react-spring.io/) - Animações físicas e interativas | Physical and interactive animations.  
+- [React Parallel](https://lnkd.in/ddwEFmvE) - Operações assíncronas | Asynchronous operations.  
+- [React Formik](https://lnkd.in/dgw8FUWR) - Gerencia formulários | Manages forms.  
+- [React Shacker](https://lnkd.in/dYnYN5aH) - Animações | Animations.  
 
 
 ### 📍 Modelo de Projetos | Project Templates
