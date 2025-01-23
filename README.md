@@ -49,7 +49,7 @@
   
 ### 📍 Badges para Copiar | Badges to Copy
 
-- [Shields.io](https://shields.io/) - Gerador de badges personalizados | Custom badge generator.
+- [Simple icons](https://simpleicons.org/) - Icones SVG personalizáveis | Customizable SVG Icons.
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges) - Coleção de badges em markdown | Collection of markdown badges.
 
 
